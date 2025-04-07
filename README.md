@@ -52,7 +52,7 @@ Ideal for students, working professionals, and DBAs looking to get practical wit
 ---
 
 📽️ Related YouTube Video:
-Watch the walkthrough and explanation of this project here: [YouTube Link]([https://youtu.be/M6fpjxPMZs0?si=xGFpOT9riL2Lg5Pf](https://youtube.com/playlist?list=PLX6s51pY5RfYF2M-_mULnBUyuvbganMqy&si=0SbWX_rMyn20dm4h))
+Watch the walkthrough and explanation of this project here: [YouTube Link](https://youtube.com/playlist?list=PLX6s51pY5RfYF2M-_mULnBUyuvbganMqy&si=AmLcV_pKW3-Ag7bf)
 
 ---
 
