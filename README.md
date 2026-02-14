@@ -4,7 +4,7 @@ This repository contains hands-on practice scripts for SQL Server security, focu
 
 ## 🔹 Part 1: Setup and Basic Operations
 
-### ✅ What you'll learn:
+### What you'll learn:
 1. **Create database** only if it doesn't already exist.
 2. **Create logins** for four different teams:
    - DevLogin
@@ -21,9 +21,9 @@ This repository contains hands-on practice scripts for SQL Server security, focu
    - `Salaries`
 5. **Insert, Alter and update** records.
 
-## 🔹 Part 2: Security and Permissions
+## Part 2: Security and Permissions
 
-### ✅ What you'll explore:
+### What you'll explore:
 
 6. **Table-level permissions** using:
    - `GRANT`
@@ -38,20 +38,20 @@ This repository contains hands-on practice scripts for SQL Server security, focu
 8. **Test specific user access** with:
    - `ALTER` and `DROP` commands
 
-## 📂 File Structure:
+## File Structure:
 - `SQL-Security-Practice.sql` – Complete SQL script covering Part 1 & 2.
 
-## 🎯 Use Case:
+## Use Case:
 Ideal for students, working professionals, and DBAs looking to get practical with SQL Server security mechanisms in a controlled environment.
 
-## 📌 Notes:
+## Notes:
 - The sample DB used is `GoogleBD`
 - Users and permissions are given as per team roles
 - Try running these scripts in SSMS step-by-step for full understanding
 
 ---
 
-📽️ Related YouTube Video:
+Related YouTube Video:
 Watch the walkthrough and explanation of this project here: [YouTube Link](https://youtube.com/playlist?list=PLX6s51pY5RfYF2M-_mULnBUyuvbganMqy&si=AmLcV_pKW3-Ag7bf)
 
 ---
